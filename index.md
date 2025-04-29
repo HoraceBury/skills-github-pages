@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: PoC Blog
 ---
 
+Some test content.
